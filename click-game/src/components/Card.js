@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-{
-  /*import the Card.css styling*/
-}
+
 import "../styles/Card.css";
 
 class Card extends Component {
@@ -23,4 +21,9 @@ export default Card;
 
 {
   /* {...this.props} binds all the functions from the parent onto the child */
+
+}
+
+{
+  /*import the Card.css styling*/
 }
