@@ -11,18 +11,18 @@ class App extends Component {
     {/* set state of App */} 
     this.state = {
       images: [
-        "./assets/images/1.jpg",
-        "./assets/images/2.jpg",
+        "./assets/images/1.png",
+        "./assets/images/2.png",
         "./assets/images/3.jpg",
-        "./assets/images/4.jpg",
-        "./assets/images/5.jpg",
-        "./assets/images/6.jpg",
+        "./assets/images/4.png",
+        "./assets/images/5.png",
+        "./assets/images/6.png",
         "./assets/images/7.jpg",
-        "./assets/images/8.jpg",
-        "./assets/images/9.jpg",
-        "./assets/images/10.jpg",
-        "./assets/images/11.jpg",
-        "./assets/images/12.jpg"
+        "./assets/images/8.png",
+        "./assets/images/9.png",
+        "./assets/images/10.png",
+        "./assets/images/11.png",
+        "./assets/images/12.png"
       ],
       score: 0,
       highScore: 0,
